@@ -1,0 +1,42 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "expo": "^27.0.0",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.1",
+    "node-forge": "^0.7.5",
+    "qs": "^6.5.2",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-27.0.0.tar.gz",
+    "react-native-elements": "^1.0.0-beta5",
+    "react-native-popup-dialog": "^0.11.46",
+    "react-native-svg": "^6.3.1",
+    "react-native-swipeable": "^0.6.0",
+    "react-navigation": "1.5.11",
+    "react-navigation-header-buttons": "0.0.7",
+    "react-redux": "^5.0.7",
+    "redux": "^3.7.2",
+    "redux-persist": "^5.9.1",
+    "redux-thunk": "^2.2.0",
+    "sentry-expo": "^1.7.0",
+    "victory-native": "^0.17.4"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/jest"
+  },
+  "jest": {
+    "preset": "jest-expo",
+    "transformIgnorePatterns": []
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-expo": "^6.0.0",
+    "jest-expo": "^27.0.0",
+    "prettier": "^1.12.1"
+  },
+  "eslintConfig": {
+    "extends": "expo/native"
+  }
+}

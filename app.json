@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "qcx",
+    "description": "Trading made easy",
+    "slug": "qcx",
+    "privacy": "public",
+    "sdkVersion": "27.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#262B34"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "hooks": {
+      "postPublish": [
+        {
+          "file": "sentry-expo/upload-sourcemaps",
+          "config": {
+            "organization": "tykhe-labs",
+            "project": "qcx",
+            "authToken": "745f3544239840adadec0a1ecb5067c9aa999f8ca7e74c4cb2521d3ee5a15605"
+          }
+        }
+      ]
+    }
+  }
+}

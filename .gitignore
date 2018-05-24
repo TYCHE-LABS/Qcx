@@ -1,0 +1,5 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+src/components/common/Keys.js
+__tests__
