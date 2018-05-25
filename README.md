@@ -9,7 +9,8 @@ Welcome to Qcx, a mobile client for trading on the Quadriga platform.
 - View and maintain open orders
 
 
-Try out the app here: 
+Try out the app here:
+Supports Both iOS & Android
 # Link: [https://exp.host/@kh42/qcx]
 
 # Here's what it looks like: 
