@@ -13,7 +13,12 @@ Try out the app here:
 # Link: [https://exp.host/@kh42/qcx]
 
 # Here's what it looks like: 
-//Screenshots
+<p align="center">
+	<img src="./Screenshots/AddingCoins.gif" width="150" height="300"/>
+  <img src="./Screenshots/Authentication_PastTrades_Txns_WalletValue.gif" width="150" height="300"/>
+  <img src="./Screenshots/HistoData_SubmitTrade.gif" width="150" height="300"/>
+</p>
+
 
 # Try the Code
 If you want to install the code, you will need the following: 
