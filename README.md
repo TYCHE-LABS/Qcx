@@ -24,30 +24,20 @@ Supports Both iOS & Android
 # Try the Code
 If you want to install the code, you will need the following: 
 
-[ ] alphaAdvantageKey (create an account and grab the api key)
-
-[ ] a Sentry link and change the sentry details in the app.json file
-
-[ ] create a file under src/components/common named 'keys.js' where you will store the above keys (or directly in the files using the keys if you wish)
-
-[ ] install expo
+- [ ] alphaAdvantageKey (create an account and grab the api key)
+- [ ] a Sentry link and change the sentry details in the app.json file
+- [ ] create a file under src/components/common named 'keys.js' where you will store the above keys (or directly in the files using the keys if you wish)
+- [ ] install expo
 
 # Todo
-[ ] Secure Storage
-
-[ ] Quadriga API Call Refactor
-
-[ ] Pro Features: 
-
-  [ ] Local Authentication: Finger Print, Face ID
-  
-  [ ] Alert notifications
-  
-  [ ] Filtering past txns
-  
-  [ ] Withdrawl and Deposits
-
-[ ] Past txn display beyond BTC_CAD pairing
+- [ ] Secure Storage
+- [ ] Quadriga API Call Refactor
+- [ ] Pro Features: 
+  - [ ] Local Authentication: Finger Print, Face ID
+  - [ ] Alert notifications
+  - [ ] Filtering past txns
+  - [ ] Withdrawl and Deposits
+- [ ] Past txn display beyond BTC_CAD pairing
 
 
 # Contribute
