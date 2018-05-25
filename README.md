@@ -48,12 +48,19 @@ If you want to install the code, you will need the following:
 If you wish to contribute to this project, feel free to contact me. 
 
 # Donate
-BTC: 1G7z8wykPF2HKksRzdTAZv5t3rqxoZspRP
-BCH: qz3av0xppm86dvv5rzks9p2hc3uzsn3aaugsar5u3u
-ETH: 
-XMR: 
-ZCASH: t1h4hrthDnkKsng14sfrsHcxArppuVv1q5o
-NANO:
-LTC:
+
+# BTC: 1G7z8wykPF2HKksRzdTAZv5t3rqxoZspRP
+
+# BCH: qz3av0xppm86dvv5rzks9p2hc3uzsn3aaugsar5u3u
+
+# ETH: 
+
+# XMR: 
+
+# ZCASH: t1h4hrthDnkKsng14sfrsHcxArppuVv1q5o
+
+# NANO:
+
+# LTC:
 
 
