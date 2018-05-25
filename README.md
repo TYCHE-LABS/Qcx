@@ -49,18 +49,18 @@ If you wish to contribute to this project, feel free to contact me.
 
 # Donate
 
-# BTC: 1G7z8wykPF2HKksRzdTAZv5t3rqxoZspRP
+### BTC: 1G7z8wykPF2HKksRzdTAZv5t3rqxoZspRP
 
-# BCH: qz3av0xppm86dvv5rzks9p2hc3uzsn3aaugsar5u3u
+### BCH: qz3av0xppm86dvv5rzks9p2hc3uzsn3aaugsar5u3u
 
-# ETH: 
+### ETH: 
 
-# XMR: 
+### XMR: 
 
-# ZCASH: t1h4hrthDnkKsng14sfrsHcxArppuVv1q5o
+### ZCASH: t1h4hrthDnkKsng14sfrsHcxArppuVv1q5o
 
-# NANO:
+### NANO:
 
-# LTC:
+### LTC:
 
 
