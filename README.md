@@ -15,9 +15,9 @@ Supports Both iOS & Android
 
 # Here's what it looks like: 
 <p align="center">
-	<img src="./Screenshots/AddingCoins.gif" width="150" height="300"/>
-  <img src="./Screenshots/Authentication_PastTrades_Txns_WalletValue.gif" width="150" height="300"/>
-  <img src="./Screenshots/HistoData_SubmitTrade.gif" width="150" height="300"/>
+	<img src="./Screenshots/AddingCoins.gif" width="225" height="450"/>
+  <img src="./Screenshots/Authentication_PastTrades_Txns_WalletValue.gif" width="225" height="450"/>
+  <img src="./Screenshots/HistoData_SubmitTrade.gif" width="225" height="450"/>
 </p>
 
 
