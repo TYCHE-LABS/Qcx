@@ -49,15 +49,15 @@ If you wish to contribute to this project, feel free to contact me.
 
 ### BCH: 1BU3rydSUP2U89CJnKjSGrvxQEDakae5wV
 
-### ETH: 
+### ETH: 0x878d23ebe1d2137586b56ad8a76ac7c9415710cf
 
 ### LTC: MFjF6iSBiRY3caj8wKC6mmKp5R4CyVijp9
 
-### XMR: 
+### XMR: 87AVDUbLEktXV1SM1KZ1baaA33HzemR3QGoFXKUvpQjX1Mjjs46JVnJi4dgjV4VPRj9bbEvCvnfdCaAB5EzgXd9JMJ4U2bg
 
 ### ZCASH: t1YjqSpuopLB6z4ptSRKbfMMYsQdYzc5zJN
 
-### NANO:
+### NANO: xrb_18kd17tsubwqocimafpjbgiggnpdff8836b8gb55trtedrxopctww76wmorw
 
 
 
