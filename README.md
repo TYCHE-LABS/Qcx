@@ -1,3 +1,5 @@
+## Please Note: Quadriga as a platform is no longer functional and thus this repo is not longer updated. 
+
 # Qcx
 
 Welcome to Qcx, a mobile client for trading on the Quadriga platform. 
@@ -29,35 +31,7 @@ If you want to install the code, you will need the following:
 - [ ] create a file under src/components/common named 'keys.js' where you will store the above keys (or directly in the files using the keys if you wish)
 - [ ] install expo
 
-# Todo
-- [ ] Secure Storage
-- [ ] Quadriga API Call Refactor
-- [ ] Pro Features: 
-  - [ ] Local Authentication: Finger Print, Face ID
-  - [ ] Alert notifications
-  - [ ] Filtering past txns
-  - [ ] Withdrawl and Deposits
-- [ ] Past txn display beyond BTC_CAD pairing
 
-
-# Contribute
-If you wish to contribute to this project, feel free to contact me. 
-
-# Donate
-
-### BTC: 37ps2nTmRLYTUpNyZh9c7xLrg179QoBbGz
-
-### BCH: 1BU3rydSUP2U89CJnKjSGrvxQEDakae5wV
-
-### ETH: 0x878d23ebe1d2137586b56ad8a76ac7c9415710cf
-
-### LTC: MFjF6iSBiRY3caj8wKC6mmKp5R4CyVijp9
-
-### XMR: 87AVDUbLEktXV1SM1KZ1baaA33HzemR3QGoFXKUvpQjX1Mjjs46JVnJi4dgjV4VPRj9bbEvCvnfdCaAB5EzgXd9JMJ4U2bg
-
-### ZCASH: t1YjqSpuopLB6z4ptSRKbfMMYsQdYzc5zJN
-
-### NANO: xrb_18kd17tsubwqocimafpjbgiggnpdff8836b8gb55trtedrxopctww76wmorw
 
 
 
