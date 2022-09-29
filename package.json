@@ -21,7 +21,7 @@
     "redux-persist": "^5.9.1",
     "redux-thunk": "^2.2.0",
     "sentry-expo": "^1.7.0",
-    "victory-native": "^0.17.4"
+    "victory-native": "^36.6.8"
   },
   "scripts": {
     "test": "node_modules/.bin/jest"
